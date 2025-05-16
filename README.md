@@ -5,7 +5,7 @@
     src="https://www.canva.com/design/DAGnWiAOZnk/uweo5aeBQG01TzJxGtdZDg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGnWiAOZnk&#x2F;uweo5aeBQG01TzJxGtdZDg&#x2F;view?utm_content=DAGnWiAOZnk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Contexto</a> by omar
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGnWiAOZnk&#x2F;uweo5aeBQG01TzJxGtdZDg&#x2F;view?utm_content=DAGnWiAOZnk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Contexto</a> de omar
 
 
 # 🎮 Juego de Plataformas Multijugador en Phaser
